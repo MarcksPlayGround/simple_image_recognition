@@ -2,6 +2,8 @@
 
 First option for installation:
 
+Installation requirement:
+
 1. python 3.6.7
 2. numpy
 3. tensorflow (latest)
@@ -17,6 +19,13 @@ Installation instruction:
 
 
 Second Option for installation (using Docker):
+
+Installation requirement:
+
+1. Docker (www.docker.com)
+2. RAM of at least 3gb. (or you could test with 2gb. When i tested this app on 1gb, the app was killed by the server because of high memory usage. )
+
+Installation instruction:
 
 1. Download Git repo
 2. navigate inside the "simple_image_recognition" folder
