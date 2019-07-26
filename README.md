@@ -9,12 +9,12 @@ Installation requirement:
 3. tensorflow (latest)
 4. Django version 2.1.4
 5. RAM of at least 3gb. (or you could test with 2gb. When i tested this app on 1gb, the app was killed by the server because of high memory usage. )
-
+<br /> <br /> 
 Installation instruction:
-
-1. Download repo from this Git.
-2. run python manage.py migrate
-3. python3 manage.py runserver
+<br /> 
+1. Download repo from this Git.<br /> 
+2. run python manage.py migrate<br /> 
+3. python3 manage.py runserver<br /> 
 
 <br /> 
 <br /> <br /> 
